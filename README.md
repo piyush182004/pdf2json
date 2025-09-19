@@ -2,6 +2,8 @@
 
 A professional-grade Python script that converts PDF documents into structured JSON format using the Unstructured library. This tool extracts text, tables, images (treated as charts), and organizes them by pages with section detection.
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-blue)](https://github.com/piyush182004/pdf2json)
+
 ## Features
 
 - **Advanced PDF Processing**: Leverages Unstructured library for robust extraction of unstructured documents
